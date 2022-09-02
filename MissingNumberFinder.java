@@ -1,4 +1,3 @@
-package prework_problems;
 import java.util.Scanner;
 public class MissingNumberFinder{
 	 public static void main(String[] args) { 
